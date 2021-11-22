@@ -1,0 +1,54 @@
+.container {
+    min-width: 400px
+}
+
+.slider {
+    height: 400px;
+    position: relative;
+}
+
+.slider img {
+    width: 100%;
+}
+
+.about {
+    position: absolute;
+    top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 100px;
+    
+}
+
+.main-about {
+    width: 300px;
+    height: 150px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+.main-about a {
+    color:black;
+    text-decoration: none;
+}
+.main-about p {
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.main-about .icon {
+    font-size: 36px;
+    margin-top: 17px;
+}
+
+.about-details {
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border: 2px solid #333;
+    border-radius: 50%;
+}

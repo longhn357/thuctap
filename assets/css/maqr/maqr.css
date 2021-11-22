@@ -1,0 +1,46 @@
+.content {
+    padding-top: 30px;
+}
+
+.content-smail {
+    margin: 10px auto;
+    width: 70%;
+    height: 100%;
+    background-color: rgb(235, 235, 235);
+    border-radius: 50px;
+}
+
+.title {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.qrcode {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.content-smail p {
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    opacity: 0.5;
+}
+
+.qr {
+    margin-left: 40px;
+    padding-bottom: 10px;
+}
+
+.qr li {
+    list-style: none;
+    margin-top: 10px;
+    
+}
+
+.form-submit {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
